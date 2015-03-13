@@ -1,0 +1,6 @@
+Adaptado da versão original em Pascal de Bob Mackay, publicado na revista britânica Practical Computing, em setembro de 1983.
+Acredito que todos devam conhecer as regras do jogo. Vou explicar rapidamente: papel vence pedra, pedra vence tesoura e tesoura vence papel. Como podem ver a probabilidade de ganhar é de exatamente 50 por cento para cada jogador. Mas na prática um jogador humano não é o ideal de aleatoriedade nas jogadas executadas. Isto porque a mente humana é um péssimo gerador de comportamento randômico e tende a seguir, mesmo subconscientemente, um padrão rastreável (na maioria das vezes). O computador avalia um possível padrão criado pelo jogador humano nas últimas cinco jogadas e a partir desse tenta prever as suas jogadas, aumentando ainda mais a possibilidade de ganhar. O vencedor será aquele que ganhar a maior parte das 50 rodadas. O histórico do jogo é armazenado em um simples vetor bidimensional, que grava cada jogada dos participantes, computador e humano. O programa abusa de estruturas que tornaram a linguagem Pascal muito elegante: conjuntos (sets) e pode servir de exemplo para iniciantes, mostrando como é fácil criar e fazer uso destas estruturas, além de funções e procedimentos.
+
+Comentários através do link:
+
+http://fanzinepas.blogspot.com/2009/12/jogo-pedra-papel-e-tesoura.html
