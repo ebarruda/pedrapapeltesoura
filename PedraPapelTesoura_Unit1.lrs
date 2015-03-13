@@ -1,0 +1,32 @@
+{ Este é um arquivo de recurso do Lazarus gerado automaticamente }
+
+LazarusResources.Add('TForm1','FORMDATA',[
+  'TPF0'#6'TForm1'#5'Form1'#4'Left'#3#235#0#6'Height'#3'f'#1#3'Top'#2'`'#5'Widt'
+  +'h'#3'P'#2#18'HorzScrollBar.Page'#3'O'#2#18'VertScrollBar.Page'#3'e'#1#13'Ac'
+  +'tiveControl'#7#5'Memo1'#7'Caption'#6#5'Form1'#12'ClientHeight'#3'f'#1#11'Cl'
+  +'ientWidth'#3'P'#2#8'OnCreate'#7#10'FormCreate'#10'LCLVersion'#6#6'0.9.29'#0
+  +#6'TImage'#6'Image3'#4'Left'#3#141#0#6'Height'#2';'#3'Top'#3#240#0#5'Width'#2
+  +'U'#7'OnClick'#7#11'Image3Click'#11'Transparent'#9#0#0#6'TImage'#6'Image4'#4
+  +'Left'#3#253#0#6'Height'#2';'#3'Top'#3#240#0#5'Width'#2'U'#7'OnClick'#7#11'I'
+  +'mage4Click'#11'Transparent'#9#0#0#6'TImage'#6'Image5'#4'Left'#3'm'#1#6'Heig'
+  +'ht'#2';'#3'Top'#3#240#0#5'Width'#2'U'#7'OnClick'#7#11'Image5Click'#11'Trans'
+  +'parent'#9#0#0#6'TImage'#6'Image2'#4'Left'#2'd'#6'Height'#2';'#3'Top'#2'x'#5
+  +'Width'#2'U'#0#0#6'TImage'#6'Image1'#4'Left'#2'd'#6'Height'#2';'#3'Top'#2' '
+  +#5'Width'#2'U'#0#0#6'TLabel'#6'Label1'#4'Left'#2#16#6'Height'#2#14#3'Top'#2
+  +'.'#5'Width'#2' '#7'Caption'#6#6'Label1'#11'ParentColor'#8#0#0#6'TLabel'#6'L'
+  +'abel3'#4'Left'#2#24#6'Height'#2#14#3'Top'#3#136#0#5'Width'#2' '#7'Caption'#6
+  +#6'Label3'#11'ParentColor'#8#0#0#6'TLabel'#6'Label2'#4'Left'#2#23#6'Height'#2
+  +#14#3'Top'#2'>'#5'Width'#2' '#7'Caption'#6#6'Label2'#11'ParentColor'#8#0#0#6
+  +'TLabel'#6'Label4'#4'Left'#2#23#6'Height'#2#14#3'Top'#3#152#0#5'Width'#2' '#7
+  +'Caption'#6#6'Label4'#11'ParentColor'#8#0#0#6'TLabel'#6'Label5'#4'Left'#2#26
+  +#6'Height'#2#14#3'Top'#3#200#0#5'Width'#2' '#7'Caption'#6#6'Label5'#11'Paren'
+  +'tColor'#8#0#0#6'TLabel'#6'Label6'#4'Left'#2'p'#6'Height'#2#14#3'Top'#3#200#0
+  +#5'Width'#2' '#7'Caption'#6#6'Label6'#11'ParentColor'#8#0#0#5'TMemo'#5'Memo1'
+  +#4'Left'#3#199#0#6'Height'#3#208#0#3'Top'#2#16#5'Width'#3'y'#1#13'Lines.Stri'
+  +'ngs'#1#6#5'Memo1'#0#8'TabOrder'#2#0#0#0#7'TButton'#7'Button1'#4'Left'#3#212
+  +#0#6'Height'#2#25#3'Top'#3'='#1#5'Width'#2'K'#25'BorderSpacing.InnerBorder'#2
+  +#4#7'Caption'#6#7'Button1'#7'OnClick'#7#12'Button1Click'#8'TabOrder'#2#1#0#0
+  +#7'TButton'#7'Button2'#4'Left'#3'1'#1#6'Height'#2#25#3'Top'#3'='#1#5'Width'#2
+  +'K'#25'BorderSpacing.InnerBorder'#2#4#7'Caption'#6#7'Button2'#7'OnClick'#7#12
+  +'Button2Click'#8'TabOrder'#2#2#0#0#0
+]);
